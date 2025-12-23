@@ -18,7 +18,7 @@ public class SimpleGUI {
     button.setBounds(180, 20, 90, 25);
 
     // label 
-    JLabel label = new JLabel("Hello!");
+    JLabel label = new JLabel("Bienvenue!");
     label.setBounds(20, 60, 250, 25);
 
     // add components to frame
