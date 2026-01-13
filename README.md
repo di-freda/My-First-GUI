@@ -63,7 +63,7 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 ### License 🎫
 
 All rights reserved
-Code gotten from [Codedex Project Tutorials] (https://www.codedex.io/projects/set-up-a-gui-with-java)
+Code gotten from [Codedex Project Tutorials](https://www.codedex.io/projects/set-up-a-gui-with-java)
 
 ### Author 🌷
 
