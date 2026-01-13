@@ -1,5 +1,5 @@
 # My First GUI 
-It is a tiny demo project showing a simple Java GUI application and is a personal introduction into Java language. I plan to adapt this knowledge on other projects
+It is a tiny demo project showing a simple Java GUI application and is a personal introduction into Java language. I plan to adapt this knowledge and use it in other projects.
 
 ## Features ✒️
 - A screen that allows the user to enter their name and get a personalised greeting in French when they click on the button.
@@ -33,7 +33,7 @@ If you want to copy the code and experiment on your own code editor:
 
 ## Usage 📊
 
-- This is a minimal example intended for learning and experimentation. The GUI demonstrates basic Java window creation and, depending on the source, likely shows simple controls (buttons, labels, or text fields). Inspect `SimpleGUI.java` to see the exact behavior and the Swing/AWT API usage.
+- This is a minimal example intended for learning and experimentation. The GUI demonstrates basic Java window creation and shows simple controls (buttons, labels, or text fields). Inspect `SimpleGUI.java` to see the exact behavior and the Swing/AWT API usage.
 
 ## Technologies Used 🔖
 
@@ -63,6 +63,7 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 ### License 🎫
 
 All rights reserved
+Code gotten from [Codedex Project Tutorials] (https://www.codedex.io/projects/set-up-a-gui-with-java)
 
 ### Author 🌷
 
